@@ -1,2 +1,4 @@
 all:
-	go build && go run main.go
+	go build
+run:
+	go run main.go
